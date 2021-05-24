@@ -1,0 +1,13 @@
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csprojAssemblyReference.cache
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+D:\CSharpCamp\Camp4\ReferenceTypes\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache
